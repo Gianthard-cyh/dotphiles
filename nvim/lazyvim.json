@@ -1,0 +1,14 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.coding.luasnip",
+    "lazyvim.plugins.extras.coding.tabnine",
+    "lazyvim.plugins.extras.coding.yanky",
+    "lazyvim.plugins.extras.editor.refactoring",
+    "lazyvim.plugins.extras.lang.clangd",
+    "lazyvim.plugins.extras.ui.edgy"
+  ],
+  "news": {
+    "NEWS.md": "5204"
+  },
+  "version": 6
+}

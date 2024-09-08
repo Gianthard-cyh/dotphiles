@@ -74,6 +74,7 @@ dotsyncrc
 #zsh/zprofile
 #zsh/zshenv
 #zsh/zshrc
+nvim:.config/nvim
 [endfiles]
 
 # Hosts to sync
@@ -88,5 +89,6 @@ dotsyncrc
 #host7.example.net               rsync=host2.example.com                                #rsync mirror, push from host2
 #host8.example.net               rsync=host2.example.com                                #rsync mirror, push from host2
 #host9.example.net               rsync=host2.example.com                                #rsync mirror, push from host2
+DESKTOP-N3AFIVS git=ANY
 [endhosts]
 
