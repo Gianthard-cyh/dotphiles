@@ -75,6 +75,7 @@ dotsyncrc
 #zsh/zshenv
 #zsh/zshrc
 nvim:.config/nvim
+bash:.bashrc
 [endfiles]
 
 # Hosts to sync
